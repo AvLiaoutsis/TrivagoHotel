@@ -1,0 +1,388 @@
+.container {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+@media (min-width:1200px) {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 850px;
+  }
+}
+
+.input-group-text {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: .375rem .75rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  background-color: transparent;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: calc(1.5em + .75rem + 2px);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.input-left-button {
+  border-right-style: none;
+}
+
+
+.input-right-button {
+  border-left-style: none;
+}
+
+#search {
+  border-left-style: none;
+
+}
+
+#labelprice {
+  margin-right: 79px;
+}
+
+.fa option {
+
+  font-weight: 900;
+}
+
+.col-sm {
+  border: 1px solid #ced4da;
+}
+
+.col-color-blue {
+  background-color: #29495c;
+  color: white;
+}
+
+.col-color-grey {
+
+  background-color: #ebeced;
+}
+
+/* styles.css | file:///C:/Users/avlia/Desktop/FrontEndAssignment/assets/css/styles.css */
+
+.input-group-text {
+  /* background-color: transparent; */
+  background-color: #fff;
+}
+
+/* bootstrap.min.css | file:///C:/Users/avlia/Desktop/FrontEndAssignment/assets/bootstrap/css/bootstrap.min.css */
+
+.custom-select {
+  background-color: #29495c;
+  color: white;
+}
+
+/* Element | file:///C:/Users/avlia/Desktop/FrontEndAssignment/index.html */
+
+span.input-group-text {
+  margin-top: 0px;
+}
+
+/* Element | file:///C:/Users/avlia/Desktop/FrontEndAssignment/index.html */
+
+.mb-3 {
+  margin-top: 10px;
+}
+
+.sortby3 {
+  width: 57%;
+  margin-top: 3px;
+  
+  padding-right: 1.75rem;
+  margin-right: -3px;
+}
+
+.borderless {
+  border: none;
+}
+
+.rowsort3 {
+  margin-left: 94px;
+
+}
+
+.svg-inline--fa {
+  color: grey;
+}
+
+.fa-select {
+  margin-bottom: 5px;
+}
+
+.colorwhite {
+  background-color: white;
+  color: black;
+}
+
+/* bootstrap.min.css | file:///C:/Users/avlia/Desktop/FrontEndAssignment/assets/bootstrap/css/bootstrap.min.css */
+
+.imgmap {
+  width: 182px;
+  height: 35px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+  margin-left: 4px;
+}
+
+/* Element | file:///C:/Users/avlia/Desktop/FrontEndAssignment/index.html */
+
+.btn-map {
+  margin-left: -89px;
+  padding-left: 0px;
+  padding-top: -0.625rem;
+  padding-right: 0px;
+}
+
+/* bootstrap.min.css | file:///C:/Users/avlia/Desktop/FrontEndAssignment/assets/bootstrap/css/bootstrap.min.css */
+
+.btn-map {
+  /* color: #fff; */
+  /* background-color: #6c757d; */
+  /* border-color: #6c757d; */
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+  width: 55px;
+  height: 25px;
+  font-size: 11px;}
+  .btn-map {
+    margin-left: -120px;
+    padding-left: 0px;
+    padding-top: -0.625rem;
+    padding-right: 0px;
+    margin-top: -5px;
+  }
+
+.forthrowlist {
+  border: none;
+
+}
+
+.list-group {
+  margin-bottom: 5px;
+
+}
+
+.list-group-item {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.btn-green {
+  background-color: green;
+  border-radius: 0px;
+}
+
+.borderbreakfast {
+  border: 1px solid #ced4da;
+  display: block;
+  border-color: green;
+}
+
+.middle-align {
+  margin-left: 20px;
+}
+.middle-align-less {
+  margin-left: 15px;
+}
+.middle-align-more {
+  margin-left: 40px;
+}
+.middle-align-more-more {
+  margin-left: 48px;
+}
+.Travelocity{
+  margin-left:30px;
+}
+
+#colorgreen {
+  color: green;
+}
+.colorgreen{
+  color: green;
+
+}
+.colorred {
+  color: red;
+}
+#colorred {
+  color: red;
+}
+
+.linethrough {
+  text-decoration-line: line-through;
+}
+
+#room-dropdown {
+  background-color: white;
+  color: black;
+}
+#custom-templates .empty-message {
+  padding: 5px 10px;
+ text-align: center;
+}
+#datetimepicker{
+  padding-left: 3px;
+padding-right: 3px;
+}
+#datetimepicker1{
+  padding-left: 3px;
+padding-right: 3px;
+}
+@media (min-width: 576px) {
+  .col-sm-5 {
+  max-width: 41.666667%;
+  max-width: 37.667%;
+  }
+  }
+
+  .custom-select {
+
+    background-color: #fff;
+    color: black;
+    }
+#ratingspan{
+  border: 2px solid green;
+  border-radius: 11%;
+  font-weight: 600;
+  color:white;
+  background-color: green;
+}
+.stars {
+  color: orange;
+  }
+
+/* bootstrap.min.css | http://127.0.0.1:5500/assets/bootstrap/css/bootstrap.min.css */
+
+.img-thumbnail {
+  /* max-width: 100%; */
+  /* height: auto; */
+  height: 243px;
+  width: 191px;
+  max-width: none;
+}
+
+.fixed-size-4row{
+  height: 243px;
+  width: 191px;
+}
+
+#HotelCustomPrice{
+  border: 1px solid white;
+
+  background-color: #e5f2f6;
+  
+  color: #37b3db;
+}
+.arrowViewDeal{
+  color:white;
+  position: absolute;
+  right: 29px;
+  bottom: 15px;
+}
+.colorblack{
+  color:black;
+}
+
+.HotelRow{
+  border: 7px solid #ebeced;
+margin-top: -6px;
+padding-top: 5px;
+}
+
+.images{
+  border:none;
+}
+
+.select3row{
+  background-color: transparent;
+  color:white;
+}
+.icon{
+  font-family: 'Segoe UI', 'Font Awesome 5 Free';
+  font-weight: 501;
+  height: 3em;
+}
+.search{
+  background-color:#007fad;
+  border-color: #007fad;
+  border-radius: 0;
+}
+.customborder{
+  border-left-style: groove;
+
+border-color: #ebeced66;
+
+border-width: 1px;
+}
+
+#searchButton {
+  width: 150px;
+  }
+.bluecolordate{
+  border-left-style: outset;                                  
+  border-left-color: blue;
+  border-left-width: thick;
+}
+.orangaecolordate {
+  border-left-style: outset;
+  border-left-color: orange;
+  border-left-width: thick;
+ }
+
+ .datelabelfix {
+  position: relative;
+}
+
+input.form-control {
+  height: 3em;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+label.form-control-label {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  top: -5px;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+left: 44px;
+color: #212529b5;
+}
+
+
+
+#priceRange {
+  margin-left: -4px;
+  }
